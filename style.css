@@ -1,0 +1,13 @@
+body{
+	background-image: url("1.jpg");
+}
+#bt1{
+	margin-left: 50%;
+	position: absolute;
+    top: 50%;
+}
+#bt2{
+	margin-left: 40%;
+	position: absolute;
+    top: 50%;
+}
